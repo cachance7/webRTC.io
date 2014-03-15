@@ -1,14 +1,14 @@
 {
   "name": "webrtc.io",
-  "version": "0.0.4",
-  "description": "Abstraction for webRTC.",
+  "version": "0.1.0",
+  "description": "Abstraction for webRTC. Modified to use socket.io.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/cavedweller/webRTC.io.git"
+    "url": "git://github.com/cachance7/webRTC.io.git"
   },
   "dependencies": {
-    "ws": ">= 0.0.0"
+    "socket.io": ">= 0.9.0"
   },
   "keywords": [
     "webrtc"
