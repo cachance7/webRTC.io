@@ -65,6 +65,13 @@ var webRTC = require('webrtc.io').listen(8001);
 //then a bunch of callbacks are available
 ```
 
+## options
+
+### Values
+mode: ['conference', 'onewaymirror']
+
+
+
 ## Stumped?
 ```
 #webrtc.io on freenode
