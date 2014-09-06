@@ -8,6 +8,7 @@
     "url": "git://github.com/cachance7/webRTC.io.git"
   },
   "dependencies": {
+    "node-uuid": "latest",
     "socket.io": "< 1.0.0",
     "winston": "latest"
   },
